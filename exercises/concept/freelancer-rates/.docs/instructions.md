@@ -42,4 +42,4 @@ daysInBudget(20000, 89, 0.2002);
 // => 35
 ```
 
-The discount is always passed as a `number`. `20.02%` is passed as `0.2002`. The result is the number of days should be rounded down to full days of work.
+The discount is always passed as a `number`. `20.02%` is passed as `0.2002`. The result is the number of days and should be rounded down to full days of work.
